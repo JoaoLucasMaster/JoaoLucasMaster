@@ -1,6 +1,6 @@
-## Bem vindo!! Meu nome é Leonardo Fragoso, Estudante de Sistemas de Informação, deixei alguns repositórios de códigos no meu perfil!
+## Bem vindo!! Meu nome é João Lucas, Estudante de Sistemas de Informação, deixei alguns repositórios de códigos no meu perfil!
 <div align="center">
-  <a href="https://github.com/LeoSIIF">
+  <a href="https://github.com/JoaoSIIF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosiif&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosiif&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
