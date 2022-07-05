@@ -1,8 +1,8 @@
 ## Bem vindo!! Meu nome é João Lucas, Estudante de Sistemas de Informação, deixei alguns repositórios de códigos no meu perfil!
 <div align="center">
   <a href="https://github.com/JoaoLucasMaster">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasMaster&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasMaster&layout=compact&langs_count=7&theme=black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasMaster&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasMaster&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
