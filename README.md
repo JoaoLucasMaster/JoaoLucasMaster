@@ -12,6 +12,7 @@
   <img align="center" alt="Joao-C++" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Joao-JAVA" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Joao-MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Joao-PHP" height="30" width="80" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
   ##
